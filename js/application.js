@@ -11,10 +11,6 @@ function startSlider() {
 
   loop = setInterval(function(){
 
-    if (sliderNext>count) {
-      sliderNext = 1;
-      sliderInt = 1;
-    }
     $("#slider > img").fadeOut(300);
     $("#slider > img#" + sliderNext).fadeIn(300);
 
