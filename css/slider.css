@@ -15,7 +15,7 @@
   width: 600px;
   height: 300px;
   float:left;
-  display: none;
+  display: hidden;
 }
 
 a {
