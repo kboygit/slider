@@ -1,3 +1,3 @@
 # slider
 
-#Link: https://rawgit.com/kboygit/slider/master/index.html
+Link: https://rawgit.com/kboygit/slider/master/index.html
